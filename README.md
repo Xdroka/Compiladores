@@ -1,2 +1,0 @@
-# Compiladores
-Projetinho de compiladores
